@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\pooZoologico\pooZoologico\obj\Debug\pooZoologico.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\pooZoologico\pooZoologico\obj\Debug\pooZoologico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\pooZoologico\pooZoologico\obj\Debug\pooZoologico.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\pooZoologico\pooZoologico\bin\Debug\pooZoologico.exe.config
+C:\Users\Caetano\source\repos\pooZoologico\pooZoologico\bin\Debug\pooZoologico.exe
+C:\Users\Caetano\source\repos\pooZoologico\pooZoologico\bin\Debug\pooZoologico.pdb
+C:\Users\Caetano\source\repos\pooZoologico\pooZoologico\obj\Debug\pooZoologico.exe
+C:\Users\Caetano\source\repos\pooZoologico\pooZoologico\obj\Debug\pooZoologico.pdb
